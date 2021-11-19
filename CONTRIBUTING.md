@@ -8,11 +8,11 @@ To get started, follow the steps below:
 
 1. Download Docker for your Mac or PC.
 2. Start the environment by running `docker-compose up` in the project directory.
-3. Visit [localhost](http://localhost) on your browser of choice.
+3. Visit <http://localhost> on your browser of choice.
 
 ## Admin
 
-To log into the WordPress admin, visit [localhost/wp-admin](http://localhost/wp-admin) and log in with the following development credentials:
+To log into the WordPress admin, visit <http://localhost/wp-admin> and log in with the following development credentials:
 
 **Username**: `force-refresh-dev`
 
