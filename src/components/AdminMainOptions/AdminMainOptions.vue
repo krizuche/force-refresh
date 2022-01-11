@@ -64,6 +64,14 @@ const OPTIONS_REFRESH_FROM_ADMIN_BAR = [
 
 const OPTIONS_REFRESH_INTERVALS = [
   {
+    option: '5 seconds'
+    value: 5,
+  },
+  {
+    option: '10 seconds',
+    value: 10,
+  },
+  {
     option: '30 seconds',
     value: 30,
   },
